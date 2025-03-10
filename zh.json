@@ -326,7 +326,7 @@
     "amount-placeholder": "填写金额",
     "max-btn": "最大",
     "description-1": "估计的网络费用：",
-    "description-2": "会收取一小笔费用！",
+    "description-2": "会收取手续费",
     "Insufficient-amount": "金额不足以支付提款费用",
     "warning-2": "您将在您的提款地址收到指定的 {asset} 金额。",
     "warning-4": "从您的余额中扣除的金额可能会在我们处理提款时（通常在几分钟内）更新。",
