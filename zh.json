@@ -1,11 +1,11 @@
 {
   "header": {
-    "rewards": "奖励",
+    "rewards": "奖励金额",
     "Total-reward-earned": "总奖励",
     "Total-friends-referred": "总推荐好友",
     "View-rewards-activities-btn": "查看奖励记录",
     "deposit": "存入",
-    "Withdrawable": "可提取的",
+    "Withdrawable": "流动金额",
     "English": "英语",
     "Korean": "韩语",
     "Chinese": "中文",
@@ -20,6 +20,7 @@
     "Next-to-jump": "即将开始",
     "All-Racing-tag": "全部赛事",
     "My-Bets": "我的投注",
+    "Casino": "Casino",
     "Today-Result": "今日赛果",
     "Bet-center": "投注中心"
   },
@@ -38,6 +39,7 @@
     "email-required-message": "必填事项",
     "email-type-message": "无效的电子邮箱",
     "password-length-message": "无效密码",
+    "invalid-credentials": "凭证无效。请重试。",
     "forgot-password": "忘记密码？",
     "login-btn": "登录",
     "account-question": "还没有注册？",
@@ -198,7 +200,7 @@
     "cancel-button": "取消全部",
     "bet-on": "赌",
     "eat-on": "吃",
-    "win-only": "赢",
+    "win-only": "独赢",
     "placed": "前",
     "Potential-profit": "利润",
     "liability": "风险",
@@ -231,7 +233,7 @@
     "no-race-today": "今天没有赛事。",
     "bet-on": "赌",
     "eat-on": "吃",
-    "win-only": "赢",
+    "win-only": "独赢",
     "placed": "前",
     "stake": "投注"
   },
@@ -267,7 +269,7 @@
     "hour": "小时",
     "second": "秒",
     "minute": "分钟",
-    "minute-short": "米"
+    "minute-short": "分"
   },
   "Livechat": {
     "Chat-title": "聊天",
@@ -378,8 +380,8 @@
     "source-column-title": "来源",
     "Status-column-title": "状态",
     "all-source-filter": "所有来源",
-    "Source-Withdrawable": "可提取的",
-    "Source-rewards": "奖励"
+    "Source-Withdrawable": "流动金额",
+    "Source-rewards": "奖励金额"
   },
   "Withdrawal-request": {
     "Withdrawal-request-title": "提款请求",
@@ -525,7 +527,7 @@
     "Total-friends-referred": "累计推荐朋友",
     "Rewards-activities": "奖励活动",
     "Activity-column-title": "活动",
-    "Reward-column-title": "奖励",
+    "Reward-column-title": "奖励金额",
     "Time-column-title": "时间",
     "Withdraw": "提款",
     "Bet": "赌",
