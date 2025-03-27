@@ -19,7 +19,7 @@
     "Greyhound": "Anjing",
     "Next-to-jump": "Akan Bermula",
     "All-Racing-tag": "Semua Perlumbaan",
-    "My-Bets": "Belian Saya",
+    "My-Bets": "Slip belian",
     "Today-Result": "Keputusan Hari Ini",
     "Bet-center": "Pusat Pertaruhan"
   },
@@ -405,7 +405,7 @@
     "Transaction-history": "Rekod transaksi",
     "My-Rewards": "Ganjaran Saya",
     "Logout": "Log keluar",
-    "My-Bets": "Belian Saya",
+    "My-Bets": "Slip belian",
     "Win-Lose-Report": "Laporan Menang/Kalah"
   },
   "Edit-Subscription-Email-form": {
@@ -569,7 +569,7 @@
     "kg": "kg"
   },
   "My-bets": {
-    "My-Bets-title": "Beli Saya",
+    "My-Bets-title": "Slip belian",
     "Race": "Perlumbaan",
     "Bet": "BELI",
     "Eat": "MAKAN",
