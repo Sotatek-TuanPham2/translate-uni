@@ -20,6 +20,7 @@
     "Next-to-jump": "Next to jump",
     "All-Racing-tag": "All Racing",
     "My-Bets": "My Bets",
+    "Casino-hub": "Casino hub",
     "Today-Result": "Today Result",
     "Bet-center": "Bet Center"
   },
@@ -29,8 +30,8 @@
     "Privacy-Policy": "Privacy Policy"
   },
   "auth-form": {
-    "login-text": "Login",
     "title": "Login",
+    "login-text": "Login",
     "email-placeholder": "Email",
     "email-or-username-placeholder": "Email or username",
     "password-placeholder": "Password",
@@ -38,6 +39,7 @@
     "email-required-message": "This field is required",
     "email-type-message": "Invalid email.",
     "password-length-message": "Invalid password",
+    "invalid-credentials": "Invalid credentials. Please try again.",
     "forgot-password": "Forgot Password?",
     "login-btn": "Login",
     "account-question": "Don’t have an account?",
@@ -231,8 +233,6 @@
     "no-race-today": "There’s no race today.",
     "bet-on": "Bet on",
     "eat-on": "Eat on",
-    "win-only": "WIN",
-    "placed": "TOP",
     "stake": "Stake"
   },
   "race-detail": {
@@ -244,9 +244,7 @@
     "Runner-column-title": "Runner #",
     "Competitor-column-title": "Competitor",
     "Result-column-title": "Result",
-    "Win-only-market": "WIN",
     "Win-only-market-tooltip": "Winner(s) of this market are the selections that ran in 1st.",
-    "placed": "TOP",
     "placed-tooltip": "Winners of this market are selections that ran in the top positions specified.",
     "markets-not-available": "The markets aren’t available yet.",
     "markets-suspended": "The markets are suspended.",
@@ -379,7 +377,15 @@
     "Status-column-title": "Status",
     "all-source-filter": "All sources",
     "Source-Withdrawable": "Withdrawable",
-    "Source-rewards": "Rewards"
+    "Source-rewards": "Rewards",
+    "game-type-column-title": "Game type",
+    "racing": "Racing",
+    "casino": "Casino",
+    "all-game-types": "All game types",
+    "bet-casino": "Bet casino",
+    "bet-cancel-casino": "Bet cancel casino",
+    "payout-casino": "Payout casino",
+    "jackpot-payout-casino": "Jackpot payout casino"
   },
   "Withdrawal-request": {
     "Withdrawal-request-title": "Withdrawal request",
@@ -597,6 +603,7 @@
     "all-types-filter": "All types",
     "all-countries-filter": "All countries",
     "Placing-time-column-title": "Placing time",
+    "Game": "Game",
     "Venue-column-title": "Venue",
     "Runner-column-title": "Runner",
     "Bet-type-column-title": "Bet type",
@@ -636,8 +643,6 @@
     "status-column-title": "Status",
     "profit-loss-column-title": "Profit/Loss",
     "result-column-title": "Result",
-    "win-only": "WIN",
-    "place-only": "TOP",
     "bet": "BET",
     "eat": "EAT",
     "won": "Won",
@@ -682,9 +687,7 @@
   "BetCenter": {
     "title": "Bet Center",
     "Selection-tips": "Selection Tips",
-    "Win": "WIN",
     "Place": "PLACE",
-    "Top": "TOP",
     "Bet": "BET",
     "Eat": "EAT",
     "More": "More",
@@ -724,5 +727,23 @@
     "Copyright": "Copyright © 2023 Unibit All rights reserved",
     "Terms-of-use": "Terms of Use",
     "Privacy-policy": "Privacy Policy"
+  },
+  "Game": {
+    "casino-hub": "Casino hub",
+    "more-games": "More games",
+    "winners-of-day": "Winners of day",
+    "top-games": "Top games",
+    "favorites": "Favorites",
+    "roulette": "Roulette",
+    "arcade": "Arcade",
+    "poker": "Poker",
+    "slot": "Slot",
+    "lobby": "Lobby",
+    "search-your-game": "Search your game",
+    "no-game-available": "No games available",
+    "placing-time": "Placing time",
+    "game": "Game",
+    "bet": "Bet",
+    "payout": "Payout"
   }
 }

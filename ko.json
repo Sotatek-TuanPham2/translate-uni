@@ -20,6 +20,7 @@
     "Next-to-jump": "다음 점프",
     "All-Racing-tag": "모든 경주",
     "My-Bets": "내 베팅",
+    "Casino-hub": "카지노 허브",
     "Today-Result": "오늘 결과",
     "Bet-center": "베트센터"
   },
@@ -38,6 +39,7 @@
     "email-required-message": "이 필드는 필수입니다",
     "email-type-message": "잘못된 이메일",
     "password-length-message": "잘못된 비밀번호",
+    "invalid-credentials": "자격 증명이 유효하지 않습니다. 다시 시도해주세요.",
     "forgot-password": "비밀번호를 잊으셨나요?",
     "login-btn": "로그인",
     "account-question": "계정이 없나요?",
@@ -231,8 +233,6 @@
     "no-race-today": "오늘 경주가 없습니다.",
     "bet-on": "베팅 중",
     "eat-on": "베팅 취소 중",
-    "win-only": "이기다",
-    "placed": "맨 위",
     "stake": "베팅 금액"
   },
   "race-detail": {
@@ -244,9 +244,7 @@
     "Runner-column-title": "경주마",
     "Competitor-column-title": "경쟁자",
     "Result-column-title": "결과",
-    "Win-only-market": "이기다",
     "Win-only-market-tooltip": "이 마켓의 우승자는 1등에 런 경주마입니다.",
-    "placed": "맨 위",
     "placed-tooltip": "이 마켓의 우승자는 지정된 상위 위치에 런 경주마입니다.",
     "markets-not-available": "아직 마켓이 제공되지 않았습니다.",
     "markets-suspended": "마켓이 중단되었습니다.",
@@ -379,7 +377,15 @@
     "Status-column-title": "상태",
     "all-source-filter": "모든 소스",
     "Source-Withdrawable": "인출 가능한",
-    "Source-rewards": "보상"
+    "Source-rewards": "보상",
+    "game-type-column-title": "게임 유형",
+    "racing": "경주",
+    "casino": "카지노",
+    "all-game-types": "모든 게임 유형",
+    "bet-casino": "카지노 베팅",
+    "bet-cancel-casino": "카지노 베팅 취소",
+    "payout-casino": "카지노 지불",
+    "jackpot-payout-casino": "카지노 잭팟 지불"
   },
   "Withdrawal-request": {
     "Withdrawal-request-title": "출금 요청",
@@ -597,6 +603,7 @@
     "all-types-filter": "모든 유형",
     "all-countries-filter": "모든 국가",
     "Placing-time-column-title": "베팅 시간",
+    "Game": "게임",
     "Venue-column-title": "장소",
     "Runner-column-title": "경주마",
     "Bet-type-column-title": "베팅 유형",
@@ -636,8 +643,6 @@
     "status-column-title": "상태",
     "profit-loss-column-title": "이익/손실",
     "result-column-title": "결과",
-    "win-only": "이기다",
-    "place-only": "맨 위",
     "bet": "베팅",
     "eat": "EAT",
     "won": "이긴건",
@@ -682,9 +687,7 @@
   "BetCenter": {
     "title": "베트센터",
     "Selection-tips": "선택 팁 :",
-    "Win": "이기다",
     "Place": "장소",
-    "Top": "맨 위",
     "Bet": "베팅",
     "Eat": "먹다",
     "More": "더",
@@ -724,5 +727,23 @@
     "Copyright": "저작권 © 2023 Unibit 모든 권리 보유",
     "Terms-of-use": "이용 약관",
     "Privacy-policy": "개인정보 보호정책"
+  },
+  "Game": {
+    "casino-hub": "카지노 허브",
+    "more-games": "더 많은 게임",
+    "winners-of-day": "오늘의 승자",
+    "top-games": "인기 게임",
+    "favorites": "즐겨찾기",
+    "roulette": "룰렛",
+    "arcade": "아케이드",
+    "poker": "포커",
+    "slot": "슬롯",
+    "lobby": "로비",
+    "search-your-game": "게임 검색",
+    "no-game-available": "사용 가능한 게임이 없습니다",
+    "placing-time": "베팅 시간",
+    "game": "게임",
+    "bet": "베팅",
+    "payout": "지불"
   }
 }

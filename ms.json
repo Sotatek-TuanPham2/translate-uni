@@ -20,6 +20,7 @@
     "Next-to-jump": "Akan Bermula",
     "All-Racing-tag": "Semua Perlumbaan",
     "My-Bets": "Slip belian",
+    "Casino-hub": "Casino hub",
     "Today-Result": "Keputusan Hari Ini",
     "Bet-center": "Pusat Pertaruhan"
   },
@@ -38,6 +39,7 @@
     "email-required-message": "Ruangan ini perlu dilengkapkan",
     "email-type-message": "E-mel tidak sah.",
     "password-length-message": "Kata laluan tidak sah",
+    "invalid-credentials": "Kredensial tidak sah. Sila cuba lagi.",
     "forgot-password": "Lupa Kata Laluan?",
     "login-btn": "Log Masuk",
     "account-question": "Tidak mempunyai akaun?",
@@ -231,8 +233,6 @@
     "no-race-today": "Tiada perlumbaan untuk hari ini.",
     "bet-on": "BELI pada",
     "eat-on": "MAKAN pada",
-    "win-only": "MENANG",
-    "placed": "TOP",
     "stake": "Jumlah"
   },
   "race-detail": {
@@ -244,9 +244,7 @@
     "Runner-column-title": "Nombor #",
     "Competitor-column-title": "Pesaing",
     "Result-column-title": "Keputusan",
-    "Win-only-market": "MENANG",
     "Win-only-market-tooltip": "Pemenang pasaran ini adalah pilihan yang berlari di tempat pertama.",
-    "placed": "TOP",
     "placed-tooltip": "Pemenang pasaran ini adalah pilihan yang berlari di kedudukan teratas yang ditentukan.",
     "markets-not-available": "Pasaran Belum Bersedia.",
     "markets-suspended": "Pasaran Ditutup",
@@ -379,7 +377,15 @@
     "Status-column-title": "Status",
     "all-source-filter": "Semua sumber",
     "Source-Withdrawable": "Boleh dikeluarkan",
-    "Source-rewards": "Ganjaran"
+    "Source-rewards": "Ganjaran",
+    "game-type-column-title": "Jenis Permainan",
+    "racing": "Perlumbaan",
+    "casino": "Kasino",
+    "all-game-types": "Semua Jenis Permainan",
+    "bet-casino": "Pertaruhan Kasino",
+    "bet-cancel-casino": "Pembatalan Pertaruhan Kasino",
+    "payout-casino": "Pembayaran Kasino",
+    "jackpot-payout-casino": "Pembayaran Jackpot Kasino"
   },
   "Withdrawal-request": {
     "Withdrawal-request-title": "Permintaan pengeluaran",
@@ -597,6 +603,7 @@
     "all-types-filter": "Semua jenis",
     "all-countries-filter": "Semua negara",
     "Placing-time-column-title": "Masa Beli",
+    "Game": "Permainan",
     "Venue-column-title": "Tempat",
     "Runner-column-title": "Peserta",
     "Bet-type-column-title": "Jenis Beli",
@@ -636,8 +643,6 @@
     "status-column-title": "Status",
     "profit-loss-column-title": "Untung/Rugi",
     "result-column-title": "Keputusan",
-    "win-only": "MENANG",
-    "place-only": "TEMPAT",
     "bet": "BELI",
     "eat": "MAKAN",
     "won": "Menang",
@@ -682,9 +687,7 @@
   "BetCenter": {
     "title": "Pusat Pertaruhan",
     "Selection-tips": "TIPS :",
-    "Win": "MENANG",
     "Place": "TEMPAT",
-    "Top": "TOP",
     "Bet": "BELI",
     "Eat": "MAKAN",
     "More": "Lebih",
@@ -724,5 +727,23 @@
     "Copyright": "Hak Cipta © 2023 Unibit Semua hak terpelihara",
     "Terms-of-use": "Syarat Penggunaan",
     "Privacy-policy": "Dasar Privasi"
+  },
+  "Game": {
+    "casino-hub": "Pusat Kasino",
+    "more-games": "Lebih Banyak Permainan",
+    "winners-of-day": "Pemenang Hari Ini",
+    "top-games": "Permainan Teratas",
+    "favorites": "Kegemaran",
+    "roulette": "Rolet",
+    "arcade": "Arked",
+    "poker": "Poker",
+    "slot": "Slot",
+    "lobby": "Lobi",
+    "search-your-game": "Cari Permainan Anda",
+    "no-game-available": "Tiada permainan tersedia",
+    "placing-time": "Masa Pertaruhan",
+    "game": "Permainan",
+    "bet": "Beli",
+    "payout": "Pembayaran"
   }
 }

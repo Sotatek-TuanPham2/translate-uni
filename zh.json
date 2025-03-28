@@ -20,7 +20,7 @@
     "Next-to-jump": "即将开始",
     "All-Racing-tag": "全部赛事",
     "My-Bets": "我的投注",
-    "Casino": "Casino",
+    "Casino-hub": "Casino hub",
     "Today-Result": "今日赛果",
     "Bet-center": "投注中心"
   },
@@ -233,8 +233,6 @@
     "no-race-today": "今天没有赛事。",
     "bet-on": "赌",
     "eat-on": "吃",
-    "win-only": "独赢",
-    "placed": "前",
     "stake": "投注"
   },
   "race-detail": {
@@ -246,9 +244,7 @@
     "Runner-column-title": "号码",
     "Competitor-column-title": "名字",
     "Result-column-title": "赛果",
-    "Win-only-market": "独赢",
     "Win-only-market-tooltip": "此市场的赢家是跑在第一名的选择。",
-    "placed": "前",
     "placed-tooltip": "此市场的赢家是在指定的前几名中跑的选择。",
     "markets-not-available": "市场尚未开放。",
     "markets-suspended": "市场暂停。",
@@ -381,7 +377,15 @@
     "Status-column-title": "状态",
     "all-source-filter": "所有来源",
     "Source-Withdrawable": "流动金额",
-    "Source-rewards": "奖励金额"
+    "Source-rewards": "奖励金额",
+    "game-type-column-title": "游戏类型",
+    "racing": "赛车",
+    "casino": "赌场",
+    "all-game-types": "所有游戏类型",
+    "bet-casino": "赌场投注",
+    "bet-cancel-casino": "取消赌场投注",
+    "payout-casino": "赌场支付",
+    "jackpot-payout-casino": "赌场大奖支付"
   },
   "Withdrawal-request": {
     "Withdrawal-request-title": "提款请求",
@@ -599,6 +603,7 @@
     "all-types-filter": "所有类型",
     "all-countries-filter": "所有国家",
     "Placing-time-column-title": "下注时间",
+    "Game": "游戏",
     "Venue-column-title": "赛事明细",
     "Runner-column-title": "参赛明细",
     "Bet-type-column-title": "投注类型",
@@ -638,8 +643,6 @@
     "status-column-title": "状态",
     "profit-loss-column-title": "利润",
     "result-column-title": "赛果",
-    "win-only": "独赢",
-    "place-only": "前",
     "bet": "赌注",
     "eat": "吃",
     "won": "独赢",
@@ -684,9 +687,7 @@
   "BetCenter": {
     "title": "投注中心",
     "Selection-tips": "推荐 :",
-    "Win": "独赢",
     "Place": "地方",
-    "Top": "前",
     "Bet": "赌",
     "Eat": "吃",
     "More": "更多",
@@ -726,5 +727,23 @@
     "Copyright": "版权所有 © 2023 Unibit 保留所有权利",
     "Terms-of-use": "使用条款",
     "Privacy-policy": "隐私政策"
+  },
+  "Game": {
+    "casino-hub": "赌场中心",
+    "more-games": "更多游戏",
+    "winners-of-day": "今日赢家",
+    "top-games": "热门游戏",
+    "favorites": "收藏",
+    "roulette": "轮盘",
+    "arcade": "街机",
+    "poker": "扑克",
+    "slot": "老虎机",
+    "lobby": "大厅",
+    "search-your-game": "搜索你的游戏",
+    "no-game-available": "没有可用的游戏",
+    "placing-time": "下注时间",
+    "game": "游戏",
+    "bet": "赌注",
+    "payout": "支付"
   }
 }
